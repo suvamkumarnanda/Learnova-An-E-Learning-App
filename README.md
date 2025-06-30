@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Elearning-Platform-Using-MERN
 Software Engineering Course Project
 
@@ -110,3 +111,6 @@ If you'd like to contribute to the project:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+=======
+# Learnova-An-E-Learning-App
+>>>>>>> 8e3a77e73415f9b91bb60dba0598e62e281f38a4
